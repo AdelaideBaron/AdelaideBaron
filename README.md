@@ -14,34 +14,32 @@ Currently in training as a Junior Java SDET Consultant with Sparta Global, learn
 <details>
   <summary>Java SDET training summary</summary>
  In progress ✅
-•	Agile & Scrum 
-•	Version Control - GIT
-•	SQL - PostgreSQL
-•	Java 
-•	OOP, SOLID Principles, Design Patterns 
-•	Unit Testing (JUnit) 
-•	JDBC 
+ 
+-	Agile & Scrum 
+-	Version Control - GIT
+-	SQL - PostgreSQL
+-	Java 
+-	OOP, SOLID Principles, Design Patterns 
+-	Unit Testing (JUnit) 
+-	JDBC 
+ 
 Coming up 🎯 
-•	File I/O 
-•	Mocking  
-•	API Testing
-•	Rest Assured
-•	Selenium
-•	BDD
+-	File I/O 
+-	Mocking  
+-	API Testing
+-	Rest Assured
+-	Selenium
+-	BDD
 </details>
 
 <details>
   <summary>CFGdegree summary</summary>
  In progress ✅
-•	MySQL basics
-•	Python basics
+-	MySQL basics
+- Python basics
 Coming up 🎯 
-•	
+- 
 </details>
-
-
-
-
 
 
 
@@ -52,7 +50,7 @@ Coming up 🎯
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adelaidebarong100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adelaidebarong100/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adelaidebarong100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adelaidebarong100/" height="30" width="40" /></a>
 </p>
 
 
