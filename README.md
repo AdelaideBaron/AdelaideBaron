@@ -33,12 +33,17 @@ Coming up 🎯
 </details>
 
 <details>
-  <summary>CFGdegree summary</summary>
+  <summary> CFGdegree summary </summary>
  In progress ✅
+ 
 -	MySQL basics
 - Python basics
-Coming up 🎯 
-- 
+  - APIs 
+  - Funnctions
+  - Reading & writing to files 
+ 
+  [CFGdegree website](https://codefirstgirls.com/courses/cfgdegree/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiOruj25YWx6c1Q2NSW8yLpzrzpmSLimjEETxX6wo2MpXFRWM-tUUjsaAqGZEALw_wcB) 
+ 
 </details>
 
 
