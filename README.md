@@ -20,6 +20,7 @@ Currently in training as a Junior Java SDET Consultant with Sparta Global, learn
 -	SQL - PostgreSQL
 -	Java 
 -	OOP, SOLID Principles, Design Patterns 
+- Logging
 -	Unit Testing (JUnit) 
 -	JDBC 
  
