@@ -23,8 +23,6 @@ Currently in training as a Junior Java SDET Consultant with Sparta Global, learn
 - Logging
 -	Unit Testing (JUnit) 
 -	JDBC 
- 
-Coming up 🎯 
 -	File I/O 
 -	Mocking  
 -	API Testing
