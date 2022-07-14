@@ -35,20 +35,11 @@ Currently in training as a Junior Java SDET Consultant with Sparta Global, learn
   <summary> CFGdegree summary </summary>
  In progress - completion: 18th August 2022 
  
--	MySQL 
-- Python:
-  - APIs 
-  - Funnctions
-  - Reading & writing to files 
- 
-- Data visualisation using Pandas, Numpy 
-- Data cleansing 
-- AI & Machine Learning 
-- SciKit 
-- Statistics 
-- Explanatory analysis 
-- Predictive modelling 
-
+- SQL syntax, queries, and logic operators
+- Python: APIs and integrations
+- Analytical libraries (Pandas, NumPy, Matplotlib)
+- Scientific data processes & machine learning
+- Predictive modelling and algorithms
  
   [CFGdegree website](https://codefirstgirls.com/courses/cfgdegree/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiOruj25YWx6c1Q2NSW8yLpzrzpmSLimjEETxX6wo2MpXFRWM-tUUjsaAqGZEALw_wcB) 
  
