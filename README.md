@@ -13,7 +13,7 @@ Currently in training as a Junior Java SDET Consultant with Sparta Global, learn
 
 <details>
   <summary>Java SDET training summary</summary>
- In progress ✅
+ In progress - completion: 15th July 2022
  
 -	Agile & Scrum 
 -	Version Control - GIT
@@ -33,13 +33,22 @@ Currently in training as a Junior Java SDET Consultant with Sparta Global, learn
 
 <details>
   <summary> CFGdegree summary </summary>
- In progress ✅
+ In progress - completion: 18th August 2022 
  
--	MySQL basics
-- Python basics
+-	MySQL 
+- Python:
   - APIs 
   - Funnctions
   - Reading & writing to files 
+ 
+- Data visualisation using Pandas, Numpy 
+- Data cleansing 
+- AI & Machine Learning 
+- SciKit 
+- Statistics 
+- Explanatory analysis 
+- Predictive modelling 
+
  
   [CFGdegree website](https://codefirstgirls.com/courses/cfgdegree/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiOruj25YWx6c1Q2NSW8yLpzrzpmSLimjEETxX6wo2MpXFRWM-tUUjsaAqGZEALw_wcB) 
  
