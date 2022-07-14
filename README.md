@@ -26,7 +26,6 @@ Currently in training as a Junior Java SDET Consultant with Sparta Global, learn
 -	File I/O 
 -	Mocking  
 -	API Testing
--	Rest Assured
 -	Selenium
 -	BDD
 </details>
