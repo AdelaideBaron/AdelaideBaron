@@ -13,7 +13,7 @@ Currently in training as a Junior Java SDET Consultant with Sparta Global, learn
 
 <details>
   <summary>Java SDET training summary</summary>
- In progress - completion: 15th July 2022
+ Completed 15th July 2022
  
 -	Agile & Scrum 
 -	Version Control - GIT
