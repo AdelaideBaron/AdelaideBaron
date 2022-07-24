@@ -44,12 +44,11 @@ Currently in training as a Junior Java SDET Consultant with Sparta Global, learn
  
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelaidebaron)](https://github.com/adelaidebaron/github-readme-stats)
 
 
+![Addi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelaidebaron&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelaidebaron&show_icons=true&locale=en" alt="adelaidebaron" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelaidebaron&" alt="adelaidebaron" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
