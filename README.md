@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adelaide</h1>
-<h3 align="center">Trainee Java SDET & Data enthusiast</h3>
+<h3 align="center">Java SDET & Data enthusiast</h3>
 
  
 <h3 align="left">Languages and Tools:</h3>
@@ -14,7 +14,7 @@
 
   
  
-Currently in training as a Junior Java SDET Consultant with Sparta Global, learning all things data as a student on the CFGdegree Data stream. Using my github for collaborative work, projects, and homework display. 
+Currently working as a Junior Java SDET Consultant with Sparta Global, with a distinction CFGdegree (Data stream) from August 2022. Using my github for collaborative work and personal projects. 
 
 <details>
   <summary>Java SDET training summary</summary>
