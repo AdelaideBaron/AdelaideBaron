@@ -20,7 +20,7 @@
   
 🌱 I’m currently learning: 
 * Quantum Mechanics (the maths) 
-* Quantum computing (beginner, looking at [Qiskit](https://qiskit.org/)
+* Quantum computing (beginner, looking at [Qiskit](https://qiskit.org/))
 * Artificial Intelligence (python, beginner)
   
 ⚡Fun fact: 
