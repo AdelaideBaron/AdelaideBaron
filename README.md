@@ -1,65 +1,52 @@
-<h1 align="center">Hi 👋, I'm Adelaide</h1>
-<h3 align="center">Java SDET & Data enthusiast</h3>
+<h1 align="center">Hi - I'm Addi 👋 </h1>
+<h3 align="center">Java QA Engineer & Women in Tech Advocate</h3>
 
- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# About Me:
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+☀️ My current role: 
+* QA Engineer focussing on QA Automation for backend services
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+🌙 Other experience 
+* Lead python, and SQL, instructor since Sep 22, instructing since Apr 22 - [CFG](https://codefirstgirls.com/about-us/)
+* [CFG](https://codefirstgirls.com/about-us/) Ambassador since Sep 22
+* [CFGdegree](https://codefirstgirls.com/courses/cfgdegree/) graduate (datastream) - Aug 22
+* Java SDET training - [Sparta Global](https://www.spartaglobal.com/), May 22 - Jul 22, placed with client focussing on front-end, ruby, automation testing 
+* Mathematics of Image Processing and Recognition - final year project for Mathematics BSc, attained first in course and project, Jan - Apr 22 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adelaidebaron&label=Profile%20views&color=0e75b6&style=flat" alt="adelaidebaron" /> </p>
-
+🔭 I’m currently working on: <br>
+* Backend API QA (full-time role)
+* Developing material to help beginners in tech, focussing on python apps, data science, and MySQL (voluntary)
+* The maths of neural networks, focussing on numerical digits, working towards creating a program that can make a font from a set of handwriting samples (project, extended from my dissertation)
   
+🌱 I’m currently learning: 
+* Quantum Mechanics (the maths) 
+* Quantum computing (beginner, looking at [Qiskit](https://qiskit.org/)
+* Artificial Intelligence (python, beginner)
+  
+⚡Fun fact: 
+* Girls Aloud was my first concert (unless you count Hi-5?)
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adelaidebarong100/) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
  
-Currently working as a Junior Java SDET Consultant with Sparta Global, with a distinction CFGdegree (Data stream) from August 2022. Using my github for collaborative work and personal projects. 
-
-<details>
-  <summary>Java SDET training summary</summary>
- Completed 15th July 2022
- 
--	Agile & Scrum 
--	Version Control - GIT
--	SQL - PostgreSQL
--	Java 
--	OOP, SOLID Principles, Design Patterns 
-- Logging
--	Unit Testing (JUnit) 
--	JDBC 
--	File I/O 
--	Mocking  
--	API Testing
--	Selenium
--	BDD
-</details>
-
-<details>
-  <summary> CFGdegree summary </summary>
- In progress - completion: 18th August 2022 
- 
-- SQL syntax, queries, and logic operators
-- Python: APIs and integrations
-- Analytical libraries (Pandas, NumPy, Matplotlib)
-- Scientific data processes & machine learning
-- Predictive modelling and algorithms
- 
-  [CFGdegree website](https://codefirstgirls.com/courses/cfgdegree/?gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiOruj25YWx6c1Q2NSW8yLpzrzpmSLimjEETxX6wo2MpXFRWM-tUUjsaAqGZEALw_wcB) 
- 
-</details>
+ <a href="https://kafka.apache.org/#:~:text=Apache%20Kafka%20is%20an%20open,%2C%20and%20mission%2Dcritical%20applications." target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Apache%20Kafka-blue" alt="Kafka"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SpringBoot-green" alt="SpringBoot"/> </a> 
+  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cucumber-green" alt="Cucumber"/> </a> 
+  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 
 
-![Addi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adelaidebaron&show_icons=true&theme=radical)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adelaidebarong100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adelaidebarong100/" height="30" width="40" /></a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AdelaideBaron&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdelaideBaron&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelaideBaron&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=AdelaideBaron&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!--- helpful readme links: 
-https://github.com/alexandresanlim/Badges4-README.md-Profile 
-
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
