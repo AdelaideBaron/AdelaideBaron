@@ -1,6 +1,8 @@
 <h1 align="center">Hi - I'm Addi 👋 </h1>
 <h3 align="center">Java QA Engineer & Women in Tech Advocate</h3>
 
+⚠️ Outdated - to be updated July 2025 ⚠️ 
+
 # About Me:
 
 ☀️ My current role: 
@@ -21,7 +23,7 @@
 🌱 I’m currently learning: 
 * Quantum Mechanics (the maths) 
 * Quantum computing (beginner, looking at [Qiskit](https://qiskit.org/))
-* Artificial Intelligence (python, beginner)
+* Artificial Intelligence (python) 
   
 ⚡Fun fact: 
 * Girls Aloud was my first concert (unless you count Hi-5?)
