@@ -1,0 +1,295 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="500"
+     viewBox="0 0 900 500"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Teaching impact widget</title>
+  <desc id="desc">
+    Retro terminal-style widget showing 2,859 students taught since April 2022
+    across software engineering, data engineering, data science, AI and machine
+    learning, Java, SQL and Python.
+  </desc>
+
+  <defs>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="scanlines"
+             width="4"
+             height="4"
+             patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.18"/>
+    </pattern>
+
+    <linearGradient id="screen"
+                    x1="0"
+                    y1="0"
+                    x2="0"
+                    y2="1">
+      <stop offset="0%" stop-color="#102017"/>
+      <stop offset="100%" stop-color="#030806"/>
+    </linearGradient>
+
+    <style>
+      .mono {
+        font-family: "Courier New", Courier, monospace;
+      }
+
+      .pixel {
+        font-family: "Courier New", Courier, monospace;
+        font-weight: 700;
+        letter-spacing: 3px;
+      }
+    </style>
+  </defs>
+
+  <!-- Outer console -->
+  <rect x="4"
+        y="4"
+        width="892"
+        height="492"
+        rx="24"
+        fill="#324737"
+        stroke="#86b98f"
+        stroke-width="4"/>
+
+  <rect x="16"
+        y="16"
+        width="868"
+        height="468"
+        rx="18"
+        fill="#17231b"
+        stroke="#526e58"
+        stroke-width="3"/>
+
+  <!-- Screen -->
+  <rect x="34"
+        y="34"
+        width="832"
+        height="432"
+        rx="18"
+        fill="url(#screen)"
+        stroke="#050706"
+        stroke-width="8"/>
+
+  <rect x="34"
+        y="34"
+        width="832"
+        height="432"
+        rx="18"
+        fill="url(#scanlines)"/>
+
+  <!-- Top title -->
+  <text x="70"
+        y="78"
+        class="mono"
+        font-size="18"
+        fill="#65ff8f"
+        filter="url(#glow)">
+    &gt; TEACHING IMPACT
+  </text>
+
+  <!-- Vertical divider -->
+  <line x1="445"
+        y1="64"
+        x2="445"
+        y2="414"
+        stroke="#65ff8f"
+        stroke-width="2"
+        stroke-dasharray="4 8"
+        opacity="0.7"/>
+
+  <!-- Left panel heading -->
+  <text x="240"
+        y="140"
+        text-anchor="middle"
+        class="pixel"
+        font-size="42"
+        fill="#7df9ff"
+        filter="url(#glow)">
+    STUDENTS
+  </text>
+
+  <text x="240"
+        y="190"
+        text-anchor="middle"
+        class="pixel"
+        font-size="42"
+        fill="#7df9ff"
+        filter="url(#glow)">
+    TAUGHT
+  </text>
+
+  <!-- Heading border corners -->
+  <path d="M80 112 H110 M80 112 V142"
+        fill="none"
+        stroke="#65ff8f"
+        stroke-width="3"/>
+
+  <path d="M400 112 H370 M400 112 V142"
+        fill="none"
+        stroke="#65ff8f"
+        stroke-width="3"/>
+
+  <path d="M80 205 H110 M80 205 V175"
+        fill="none"
+        stroke="#65ff8f"
+        stroke-width="3"/>
+
+  <path d="M400 205 H370 M400 205 V175"
+        fill="none"
+        stroke="#65ff8f"
+        stroke-width="3"/>
+
+  <!-- Divider above number -->
+  <line x1="80"
+        y1="230"
+        x2="400"
+        y2="230"
+        stroke="#65ff8f"
+        stroke-width="2"
+        stroke-dasharray="8 8"
+        opacity="0.75"/>
+
+  <!-- Student count -->
+  <text x="240"
+        y="337"
+        text-anchor="middle"
+        class="pixel"
+        font-size="100"
+        fill="#ffe66d"
+        filter="url(#glow)">
+    2,859
+  </text>
+
+  <!-- Divider below number -->
+  <line x1="80"
+        y1="366"
+        x2="400"
+        y2="366"
+        stroke="#65ff8f"
+        stroke-width="2"
+        stroke-dasharray="8 8"
+        opacity="0.75"/>
+
+  <!-- Right panel: teaching since -->
+  <rect x="480"
+        y="72"
+        width="330"
+        height="78"
+        rx="8"
+        fill="none"
+        stroke="#65ff8f"
+        stroke-width="2"/>
+
+  <text x="505"
+        y="100"
+        class="mono"
+        font-size="16"
+        fill="#65ff8f">
+    TEACHING SINCE
+  </text>
+
+  <text x="505"
+        y="131"
+        class="pixel"
+        font-size="25"
+        fill="#65ff8f"
+        filter="url(#glow)">
+    APRIL 2022
+  </text>
+
+  <!-- Right panel: courses -->
+  <rect x="480"
+        y="168"
+        width="330"
+        height="222"
+        rx="8"
+        fill="none"
+        stroke="#7df9ff"
+        stroke-width="2"/>
+
+  <text x="505"
+        y="198"
+        class="mono"
+        font-size="17"
+        fill="#7df9ff">
+    TEACHING COURSES:
+  </text>
+
+  <line x1="480"
+        y1="212"
+        x2="810"
+        y2="212"
+        stroke="#7df9ff"
+        stroke-width="2"
+        opacity="0.7"/>
+
+  <text x="505"
+        y="242"
+        class="mono"
+        font-size="15"
+        fill="#d7f9ff">
+    SOFTWARE &amp; DATA ENGINEERING
+  </text>
+
+  <text x="505"
+        y="276"
+        class="mono"
+        font-size="15"
+        fill="#b8a7ff">
+    DATA SCIENCE
+  </text>
+
+  <text x="505"
+        y="310"
+        class="mono"
+        font-size="15"
+        fill="#ff9fcb">
+    AI &amp; ML
+  </text>
+
+  <text x="505"
+        y="344"
+        class="mono"
+        font-size="15"
+        fill="#ffd37d">
+    JAVA • SQL • PYTHON
+  </text>
+
+  <!-- Footer -->
+  <line x1="70"
+        y1="410"
+        x2="830"
+        y2="410"
+        stroke="#65ff8f"
+        stroke-width="2"
+        opacity="0.55"/>
+
+  <text x="82"
+        y="440"
+        class="mono"
+        font-size="15"
+        fill="#65ff8f">
+    TEACHING AND CREATION OF TECHNICAL CONTENT
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="804"
+        y="425"
+        width="11"
+        height="17"
+        fill="#65ff8f">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
+</svg>
