@@ -9,7 +9,7 @@
   <desc id="desc">
     Retro terminal-style widget showing 2,859 students taught since April 2022
     across software engineering, data engineering, data science, AI and machine
-    learning, Java, SQL and Python.
+    learning, Java, SQL and Python, including specializations.
   </desc>
 
   <defs>
@@ -106,118 +106,78 @@
         stroke-dasharray="4 8"
         opacity="0.7"/>
 
-  <!-- Left panel heading -->
-  <text x="240"
-        y="140"
-        text-anchor="middle"
-        class="pixel"
-        font-size="42"
-        fill="#7df9ff"
-        filter="url(#glow)">
-    STUDENTS
-  </text>
 
-  <text x="240"
-        y="190"
-        text-anchor="middle"
-        class="pixel"
-        font-size="42"
-        fill="#7df9ff"
-        filter="url(#glow)">
-    TAUGHT
-  </text>
 
-  <!-- Heading border corners -->
-  <path d="M80 112 H110 M80 112 V142"
-        fill="none"
-        stroke="#65ff8f"
-        stroke-width="3"/>
+    <!-- Student count -->
+    <text x="245"
+          y="180"
+          text-anchor="middle"
+          class="pixel"
+          font-size="90"
+          fill="#ffe66d"
+          filter="url(#glow)">
+        2,859
+    </text>
 
-  <path d="M400 112 H370 M400 112 V142"
-        fill="none"
-        stroke="#65ff8f"
-        stroke-width="3"/>
+    <!-- Left panel heading -->
+    <text x="240"
+          y="230"
+          text-anchor="middle"
+          class="pixel"
+          font-size="24"
+          fill="#7df9ff">
+        STUDENTS TAUGHT
+    </text>
 
-  <path d="M80 205 H110 M80 205 V175"
-        fill="none"
-        stroke="#65ff8f"
-        stroke-width="3"/>
+    <!--  &lt;!&ndash; Left panel: Students Taught &ndash;&gt;-->
+    <rect x="80"
+          y="95"
+          width="320"
+          height="160"
+          rx="8"
+          fill="none"
+          stroke="#7df9ff"
+          stroke-width="2"/>
 
-  <path d="M400 205 H370 M400 205 V175"
-        fill="none"
-        stroke="#65ff8f"
-        stroke-width="3"/>
+    <!-- Left panel: teaching since -->
+    <rect x="80"
+          y="280"
+          width="320"
+          height="100"
+          rx="8"
+          fill="none"
+          stroke="#65ff8f"
+          stroke-width="2"/>
 
-  <!-- Divider above number -->
-  <line x1="80"
-        y1="230"
-        x2="400"
-        y2="230"
-        stroke="#65ff8f"
-        stroke-width="2"
-        stroke-dasharray="8 8"
-        opacity="0.75"/>
+    <text x="105"
+          y="310"
+          class="mono"
+          font-size="16"
+          fill="#65ff8f">
+        TEACHING SINCE
+    </text>
 
-  <!-- Student count -->
-  <text x="240"
-        y="337"
-        text-anchor="middle"
-        class="pixel"
-        font-size="100"
-        fill="#ffe66d"
-        filter="url(#glow)">
-    2,859
-  </text>
-
-  <!-- Divider below number -->
-  <line x1="80"
-        y1="366"
-        x2="400"
-        y2="366"
-        stroke="#65ff8f"
-        stroke-width="2"
-        stroke-dasharray="8 8"
-        opacity="0.75"/>
-
-  <!-- Right panel: teaching since -->
-  <rect x="480"
-        y="72"
-        width="330"
-        height="78"
-        rx="8"
-        fill="none"
-        stroke="#65ff8f"
-        stroke-width="2"/>
-
-  <text x="505"
-        y="100"
-        class="mono"
-        font-size="16"
-        fill="#65ff8f">
-    TEACHING SINCE
-  </text>
-
-  <text x="505"
-        y="131"
-        class="pixel"
-        font-size="25"
-        fill="#65ff8f"
-        filter="url(#glow)">
-    APRIL 2022
-  </text>
+    <text x="105"
+          y="350"
+          class="pixel"
+          font-size="25"
+          fill="#65ff8f"
+          filter="url(#glow)">
+        APRIL 2022
+    </text>
 
   <!-- Right panel: courses -->
   <rect x="480"
-        y="168"
+        y="72"
         width="330"
-        height="222"
+        height="170"
         rx="8"
         fill="none"
         stroke="#7df9ff"
         stroke-width="2"/>
 
   <text x="505"
-        y="198"
+        y="102"
         class="mono"
         font-size="17"
         fill="#7df9ff">
@@ -225,43 +185,102 @@
   </text>
 
   <line x1="480"
-        y1="212"
+        y1="116"
         x2="810"
-        y2="212"
+        y2="116"
         stroke="#7df9ff"
         stroke-width="2"
         opacity="0.7"/>
 
   <text x="505"
-        y="242"
+        y="144"
         class="mono"
-        font-size="15"
+        font-size="14"
         fill="#d7f9ff">
     SOFTWARE &amp; DATA ENGINEERING
   </text>
 
   <text x="505"
-        y="276"
+        y="170"
         class="mono"
-        font-size="15"
+        font-size="14"
         fill="#b8a7ff">
     DATA SCIENCE
   </text>
 
   <text x="505"
-        y="310"
+        y="196"
         class="mono"
-        font-size="15"
+        font-size="14"
         fill="#ff9fcb">
     AI &amp; ML
   </text>
 
   <text x="505"
-        y="344"
+        y="222"
         class="mono"
-        font-size="15"
+        font-size="14"
         fill="#ffd37d">
     JAVA • SQL • PYTHON
+  </text>
+  
+  <!-- Right panel: Content Creation Box -->
+  <rect x="480"
+        y="254"
+        width="330"
+        height="136"
+        rx="8"
+        fill="none"
+        stroke="#ffd37d"
+        stroke-width="2"/>
+  
+  <text x="505"
+        y="280"
+        class="mono"
+        font-size="15"
+        fill="#ffd37d"
+        filter="url(#glow)">
+    TECHNICAL CONTENT CREATION
+  </text>
+  
+  <line x1="480"
+        y1="290"
+        x2="810"
+        y2="290"
+        stroke="#ffd37d"
+        stroke-width="2"
+        opacity="0.7"/>
+  
+  <text x="505"
+        y="312"
+        class="mono"
+        font-size="12"
+        fill="#ffd37d">
+    • Software Engineering
+  </text>
+
+  <text x="522"
+        y="330"
+        class="mono"
+        font-size="12"
+        fill="#ffd37d">
+    Specialisation (5 week course)
+  </text>
+  
+  <text x="505"
+        y="358"
+        class="mono"
+        font-size="12"
+        fill="#ffd37d">
+    • Java, testing, and deployments
+  </text>
+
+  <text x="522"
+        y="374"
+        class="mono"
+        font-size="12"
+        fill="#ffd37d">
+    (4 week course)
   </text>
 
   <!-- Footer -->
