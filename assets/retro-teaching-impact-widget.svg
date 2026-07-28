@@ -1,0 +1,314 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="500"
+     viewBox="0 0 900 500"
+     role="img"
+     aria-labelledby="title desc">
+
+  <title id="title">Teaching impact widget</title>
+  <desc id="desc">
+    Retro terminal-style widget showing 2,859 students taught since April 2022
+    across software engineering, data engineering, data science, AI and machine
+    learning, Java, SQL and Python, including specializations.
+  </desc>
+
+  <defs>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="scanlines"
+             width="4"
+             height="4"
+             patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.18"/>
+    </pattern>
+
+    <linearGradient id="screen"
+                    x1="0"
+                    y1="0"
+                    x2="0"
+                    y2="1">
+      <stop offset="0%" stop-color="#102017"/>
+      <stop offset="100%" stop-color="#030806"/>
+    </linearGradient>
+
+    <style>
+      .mono {
+        font-family: "Courier New", Courier, monospace;
+      }
+
+      .pixel {
+        font-family: "Courier New", Courier, monospace;
+        font-weight: 700;
+        letter-spacing: 3px;
+      }
+    </style>
+  </defs>
+
+  <!-- Outer console -->
+  <rect x="4"
+        y="4"
+        width="892"
+        height="492"
+        rx="24"
+        fill="#324737"
+        stroke="#86b98f"
+        stroke-width="4"/>
+
+  <rect x="16"
+        y="16"
+        width="868"
+        height="468"
+        rx="18"
+        fill="#17231b"
+        stroke="#526e58"
+        stroke-width="3"/>
+
+  <!-- Screen -->
+  <rect x="34"
+        y="34"
+        width="832"
+        height="432"
+        rx="18"
+        fill="url(#screen)"
+        stroke="#050706"
+        stroke-width="8"/>
+
+  <rect x="34"
+        y="34"
+        width="832"
+        height="432"
+        rx="18"
+        fill="url(#scanlines)"/>
+
+  <!-- Top title -->
+  <text x="70"
+        y="78"
+        class="mono"
+        font-size="18"
+        fill="#65ff8f"
+        filter="url(#glow)">
+    &gt; TEACHING IMPACT
+  </text>
+
+  <!-- Vertical divider -->
+  <line x1="445"
+        y1="64"
+        x2="445"
+        y2="400"
+        stroke="#65ff8f"
+        stroke-width="2"
+        stroke-dasharray="4 8"
+        opacity="0.7"/>
+
+
+
+    <!-- Student count -->
+    <text x="245"
+          y="180"
+          text-anchor="middle"
+          class="pixel"
+          font-size="90"
+          fill="#ffe66d"
+          filter="url(#glow)">
+        2,859
+    </text>
+
+    <!-- Left panel heading -->
+    <text x="240"
+          y="230"
+          text-anchor="middle"
+          class="pixel"
+          font-size="24"
+          fill="#7df9ff">
+        STUDENTS TAUGHT
+    </text>
+
+    <!--  &lt;!&ndash; Left panel: Students Taught &ndash;&gt;-->
+    <rect x="80"
+          y="95"
+          width="320"
+          height="160"
+          rx="8"
+          fill="none"
+          stroke="#7df9ff"
+          stroke-width="2"/>
+
+    <!-- Left panel: teaching since -->
+    <rect x="80"
+          y="280"
+          width="320"
+          height="100"
+          rx="8"
+          fill="none"
+          stroke="#65ff8f"
+          stroke-width="2"/>
+
+    <text x="105"
+          y="310"
+          class="mono"
+          font-size="16"
+          fill="#65ff8f">
+        TEACHING SINCE
+    </text>
+
+    <text x="105"
+          y="350"
+          class="pixel"
+          font-size="25"
+          fill="#65ff8f"
+          filter="url(#glow)">
+        APRIL 2022
+    </text>
+
+  <!-- Right panel: courses -->
+  <rect x="480"
+        y="72"
+        width="330"
+        height="170"
+        rx="8"
+        fill="none"
+        stroke="#7df9ff"
+        stroke-width="2"/>
+
+  <text x="505"
+        y="102"
+        class="mono"
+        font-size="17"
+        fill="#7df9ff">
+    TEACHING COURSES:
+  </text>
+
+  <line x1="480"
+        y1="116"
+        x2="810"
+        y2="116"
+        stroke="#7df9ff"
+        stroke-width="2"
+        opacity="0.7"/>
+
+  <text x="505"
+        y="144"
+        class="mono"
+        font-size="14"
+        fill="#d7f9ff">
+    SOFTWARE &amp; DATA ENGINEERING
+  </text>
+
+  <text x="505"
+        y="170"
+        class="mono"
+        font-size="14"
+        fill="#b8a7ff">
+    DATA SCIENCE
+  </text>
+
+  <text x="505"
+        y="196"
+        class="mono"
+        font-size="14"
+        fill="#ff9fcb">
+    AI &amp; ML
+  </text>
+
+  <text x="505"
+        y="222"
+        class="mono"
+        font-size="14"
+        fill="#ffd37d">
+    JAVA • SQL • PYTHON
+  </text>
+  
+  <!-- Right panel: Content Creation Box -->
+  <rect x="480"
+        y="254"
+        width="330"
+        height="136"
+        rx="8"
+        fill="none"
+        stroke="#ffd37d"
+        stroke-width="2"/>
+  
+  <text x="505"
+        y="280"
+        class="mono"
+        font-size="15"
+        fill="#ffd37d"
+        filter="url(#glow)">
+    TECHNICAL CONTENT CREATION
+  </text>
+  
+  <line x1="480"
+        y1="290"
+        x2="810"
+        y2="290"
+        stroke="#ffd37d"
+        stroke-width="2"
+        opacity="0.7"/>
+  
+  <text x="505"
+        y="312"
+        class="mono"
+        font-size="12"
+        fill="#ffd37d">
+    • Software Engineering
+  </text>
+
+  <text x="522"
+        y="330"
+        class="mono"
+        font-size="12"
+        fill="#ffd37d">
+    Specialisation (5 week course)
+  </text>
+  
+  <text x="505"
+        y="358"
+        class="mono"
+        font-size="12"
+        fill="#ffd37d">
+    • Java, testing, and deployments
+  </text>
+
+  <text x="522"
+        y="374"
+        class="mono"
+        font-size="12"
+        fill="#ffd37d">
+    (4 week course)
+  </text>
+
+  <!-- Footer -->
+  <line x1="70"
+        y1="410"
+        x2="830"
+        y2="410"
+        stroke="#65ff8f"
+        stroke-width="2"
+        opacity="0.55"/>
+
+  <text x="82"
+        y="440"
+        class="mono"
+        font-size="15"
+        fill="#65ff8f">
+    TEACHING WOMEN TO CODE THROUGH CODE FIRST GIRLS
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="804"
+        y="425"
+        width="11"
+        height="17"
+        fill="#65ff8f">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -18,5 +18,13 @@ Leveraging my maths education to engineer resilient, high-quality software solut
 
 ---
 
+<p align="center">
+  <img
+    src="assets/retro-teaching-impact-widget.svg"
+    alt="2,859 students taught since April 2022"
+    width="900"
+  />
+</p>
+
 
 
