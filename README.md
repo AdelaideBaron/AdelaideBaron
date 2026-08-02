@@ -1,6 +1,8 @@
 # Hi - I'm Addi 👋 
 ### Software Engineer | Automation & Test Champion | Math Enthusiast | Lead Instructor
 
+[Visit my portfolio](https://adelaidebaron.github.io/adelaide-baron-portfolio/)
+
 Leveraging my maths education to engineer resilient, high-quality software solutions, I'm currently specialising in developing and integrating GUI-focused Java code for defence systems, while leading testing standards across Thales in Cheadle. 
 
 - ⚙️ **Current Focus:** Defence Sonar Systems (Java/GUI), Shift-Left Automation Strategy, and Cross-Site Guild Leadership
